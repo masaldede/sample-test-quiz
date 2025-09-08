@@ -1,14 +1,14 @@
 # 🧠 Sample Test Quiz
 
-## 🚀 Purpose  
+## Purpose  
 This project presents users with a short 4-question quiz, based on the difficulty level they select. It is designed to help beginners practice Python fundamentals such as loops, conditionals, functions, user input handling, and string replacement.
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 - Python 2.7  
 - CLI interface with `raw_input()` and `print` (Python 2 syntax)  
 - No external libraries required
 
-## 📋 Features
+## Features
 - Prompts user to choose a difficulty level: easy, medium, or hard  
 - Each level contains 4 fill-in-the-blank questions  
 - Correct answers fill the blanks dynamically  
@@ -16,7 +16,7 @@ This project presents users with a short 4-question quiz, based on the difficult
 - Total number of attempts is shown at the end  
 - Option to restart the quiz
 
-## 📸 Sample Flow
+## Sample Flow
 choose level: easy / medium / hard
 Choose a level: easy
 
