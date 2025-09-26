@@ -1,4 +1,4 @@
-# 🧠 Sample Test Quiz
+# Sample Test Quiz
 
 ## Purpose  
 This project presents users with a short 4-question quiz, based on the difficulty level they select. It is designed to help beginners practice Python fundamentals such as loops, conditionals, functions, user input handling, and string replacement.
